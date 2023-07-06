@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aaeerroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaeerroon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aeron brylle lazo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aeron brylle lazo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aeron-brylle-lazo-554346226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aeron brylle lazo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/deificz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deificz" height="30" width="40" /></a>
 <a href="https://fb.com/aeronbrylIe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aeron brylle lazo" height="30" width="40" /></a>
 <a href="https://instagram.com/aeronbrylle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeronbrylle" height="30" width="40" /></a>
