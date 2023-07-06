@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Deificz?tab=repositories)
+- 👨‍💻 Visit my [website]([https://github.com/Deificz?tab=repositories](https://deificz.github.io/aeronbrylle/))
 
 - 💬 Ask me about **ANYTHING!**
 
