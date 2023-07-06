@@ -1,7 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHd5CcPIlBirg/profile-displaybackgroundimage-shrink_350_1400/0/1679146220334?e=1694044800&v=beta&t=75M2DxGWMbo7-9fpZVTBkqt1cYON5iBeGVovqSENOYA)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/jHV1y8L/banner.jpg)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm Aeron Brylle</h1>
+<h1 align="center">ᴀᴇʀᴏɴ ʙʀʏʟʟᴇ </h1>
 <h3 align="center">A Website Developer that is currently finding his niche :)</h3>
 
 
