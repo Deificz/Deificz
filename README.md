@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 Visit my [website]([https://github.com/Deificz?tab=repositories](https://deificz.github.io/aeronbrylle/))
+- 👨‍💻 Learn more about me at my [website](https://deificz.github.io/aeronbrylle/)
 
 - 💬 Ask me about **ANYTHING!**
 
-- 📫 Email me @ **aeronbrylle.lazo@gmail.com**
+- 📫 Reach me through **aeronbrylle.lazo@gmail.com**
 
 - ⚡  and..... **I'm a gamer and a video&photo editor!**
 
