@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aeron Brylle</h1>
-<h3 align="center">An inspiring Website Developer that is currently finding his niche :)</h3>
+<h3 align="center">A Website Developer that is currently finding his niche :)</h3>
 
 
 <img align="right" alt="Coding" width="400"
@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Deificz?tab=repositories)
 
-- 💬 Ask me about **C, Java, C#, HTML, CSS, JavaScript**
+- 💬 Ask me about **ANYTHING!**
 
 - 📫 Email me @ **aeronbrylle.lazo@gmail.com**
 
-- ⚡ Fun fact **I'm a gamer and a video&photo editor**
+- ⚡  and..... **I'm a gamer and a video&photo editor!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
