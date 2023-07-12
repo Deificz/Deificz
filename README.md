@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/jHV1y8L/banner.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/JpsDJpH/banner.jpg)](https://rishavchanda.io)
 
 
 <h1 align="center">ᴀᴇʀᴏɴ ʙʀʏʟʟᴇ </h1>
