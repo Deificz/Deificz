@@ -56,4 +56,4 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a><br>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deificz&show_icons=true&locale=en&layout=compact" alt="deificz" /></p>
+<p><img align="center" src="https://github-readme-stats-deificz.vercel.app/api/top-langs?username=deificz&theme=gotham&show_icons=true" alt="deificz" /></p>
