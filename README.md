@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400"
   src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif">
 
-### 👨‍💻 🇦​​🇧​​🇴​​🇺​​🇹​
+### 👨‍💻 𝙰𝙱𝙾𝚄𝚃
 
 <br>
 
@@ -28,7 +28,7 @@
 
 #
 
-### 🔌 ​🇸​​🇴​​🇨​​🇮​​🇦​​🇱​​🇸​
+### 🔌 ​𝚂𝙾𝙲𝙸𝙰𝙻𝚂
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/aeronbrylle/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-navy?logo=linkedin&logoColor=white" href=""></a> &nbsp
@@ -44,7 +44,7 @@
 
 #
 
-### 🛠️ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​ ​🇦​​🇳​​🇩​ ​🇹​​🇴​​🇴​​🇱​​🇸​
+### 🛠️ ​𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 & 𝚃𝙾𝙾𝙻𝚂
 <p align="left"><p align="left"> 
 
 ### <h5>🇼​​🇪​​🇧​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​</h5>
@@ -73,7 +73,7 @@
 </p>
 
 #
-### 📊 ​🇸​​🇹​​🇦​​🇹​​🇸​
+### 📊 𝚂𝚃𝙰𝚃𝚂
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deificz&theme=gotham&show_icons=true&locale=en" alt="deificz" /></p>
 <p><img align="center" src="https://github-readme-stats-deificz.vercel.app/api/top-langs?username=deificz&theme=gotham&show_icons=true" alt="deificz" /></p>
