@@ -1,12 +1,11 @@
 [![MasterHead](https://i.ibb.co/JpsDJpH/banner.jpg)](https://rishavchanda.io)
 
-###
+#
 
-<h1 align="center">𝔸𝕖𝕣𝕠𝕟 𝔹𝕣𝕪𝕝𝕝𝕖 𝕃𝕒𝕫𝕠</h1>
+<h3 align="center">𝔸𝕖𝕣𝕠𝕟 𝔹𝕣𝕪𝕝𝕝𝕖 𝕃𝕒𝕫𝕠</h3>
 <h3 align="center"><em>deificz</em></h3>
 <h1 align="center">🕸️</h1>
 
-#
 
 <img align="right" alt="Coding" width="400"
   src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif">
