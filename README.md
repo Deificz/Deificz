@@ -1,42 +1,51 @@
 [![MasterHead](https://i.ibb.co/JpsDJpH/banner.jpg)](https://rishavchanda.io)
 
+###
 
-<h1 align="center">ᴀᴇʀᴏɴ ʙʀʏʟʟᴇ </h1>
-<h3 align="center">:)</h3>
+<h1 align="center">𝔸𝕖𝕣𝕠𝕟 𝔹𝕣𝕪𝕝𝕝𝕖 𝕃𝕒𝕫𝕠</h1>
+<h3 align="center"><em>deificz</em></h3>
+<h1 align="center">🕸️</h1>
 
+#
 
 <img align="right" alt="Coding" width="400"
   src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif">
-
   
+### 👨‍💻 ＡＢＯＵＴ
 
-- 🌱 I’m currently learning **Web Development**
+<br>
 
-- 👨‍💻 Learn more about me at my [website](https://deificz.github.io/aeronbrylle/)
+- 🌱 Currently learning **Web Development**
+
+- 🚀 Learn more about me at my [website](https://deificz.github.io/aeronbrylle/)
 
 - 💬 Ask me about **anything**
 
 - 📫 Reach me through **aeronbrylle.lazo@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+<br>
+<br>
+
+#
+
+### 🔌 ＳＯＣＩＡＬＳ
+<br>
 <p align="left">
-<a href="https://twitter.com/aaeerroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaeerroon" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aeronbrylle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aeron brylle lazo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12022633/deificz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deificz" height="30" width="40" /></a>
-<a href="https://fb.com/aeronbrylIe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aeron brylle lazo" height="30" width="40" /></a>
-<a href="https://instagram.com/aeronbrylle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeronbrylle" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCKt8zfbBJykVYM2VN_00bPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deificz" height="30" width="40" /></a>
-<a href="https://leetcode.com/Deificz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deificz" height="30" width="40" /></a>
-<a href="https://discord.gg/deificz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deificz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aeron brylle lazo" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-navy?logo=linkedin&logoColor=white" href=""></a> &nbsp
+<a href="https://discord.gg/deificz" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2?logo=discord&logoColor=white"></a> &nbsp 
+<a href="https://fb.com/aeronbrylIe/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white"></a> &nbsp 
+<a href="https://instagram.com/aeronbrylle" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white"></a> &nbsp 
+<a href="https://twitter.com/aaeerroon" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a> &nbsp
+<a href="https://stackoverflow.com/users/deificz" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-gray?logo=stackoverflow&logoColor=%23F58025"></a> &nbsp &nbsp
+<a href="https://www.youtube.com/c/deificz" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white"></a> &nbsp 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+#
+
+### 🛠️ ＬＡＮＧＵＡＧＥＳ ＆ ＴＯＯＬＳ
+<br>
 <p align="left"><p align="left"> 
-
-
-
-
-
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
@@ -56,6 +65,10 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a><br>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
 
-
+#
+### 📊 ＳＴＡＴＳ
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deificz&theme=gotham&show_icons=true&locale=en" alt="deificz" /></p>
 <p><img align="center" src="https://github-readme-stats-deificz.vercel.app/api/top-langs?username=deificz&theme=gotham&show_icons=true" alt="deificz" /></p>
+
+#
