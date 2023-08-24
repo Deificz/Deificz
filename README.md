@@ -31,13 +31,15 @@
 ### 🔌 ＳＯＣＩＡＬＳ
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/aeron brylle lazo" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-navy?logo=linkedin&logoColor=white" href=""></a> &nbsp
+<a href="https://www.linkedin.com/in/aeronbrylle/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-navy?logo=linkedin&logoColor=white" href=""></a> &nbsp
+<a href="https://steamcommunity.com/id/DeificFate/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Steam-black?logo=steam&logoColor=white"></a> &nbsp 
 <a href="https://discord.gg/deificz" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2?logo=discord&logoColor=white"></a> &nbsp 
 <a href="https://fb.com/aeronbrylIe/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white"></a> &nbsp 
 <a href="https://instagram.com/aeronbrylle" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white"></a> &nbsp 
 <a href="https://twitter.com/aaeerroon" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a> &nbsp
+<a href="https://www.reddit.com/user/Deif1cz" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Reddit-%23FF4500?logo=reddit&logoColor=white"></a> &nbsp
 <a href="https://stackoverflow.com/users/deificz" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-gray?logo=stackoverflow&logoColor=%23F58025"></a> &nbsp &nbsp
-<a href="https://www.youtube.com/c/deificz" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white"></a> &nbsp 
+<a href="https://www.youtube.com/channel/UCKt8zfbBJykVYM2VN_00bPw" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white"></a> &nbsp 
 </p>
 
 #
