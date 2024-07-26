@@ -14,7 +14,7 @@
 
 <br>
 
-- 🌱 Currently learning **Web Development**
+- 🌱 Currently working as a Full-stack Developer (Leaning mainly on Frontend)
 
 - 🚀 Learn more about me at my [website](https://deificz.github.io/aeronbrylle/)
 
