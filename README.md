@@ -81,7 +81,7 @@
 ### 📊 𝚂𝚃𝙰𝚃𝚂
 <br>
 <p><img align="center" src="https://readme-stats-github.pages.dev/api/top-langs?username=Deificz&theme=dark" alt="deificz" /></p>
-<p>&nbsp;<img align="center" src="https://readme-stats-github.pages.dev/api?username=Deificz&theme=dark" alt="deificz" /></p>
+<p>&nbsp;<img align="center" src="https://readme-stats-github.pages.dev/api/typing?lines=Ego%20amissus%20pugna%20sed%20autere%20bellum&theme=shadow&color=%230affce&particleColor=%23050505&background=%2346effb" alt="deificz" /></p>
 
 
 #
