@@ -8,7 +8,7 @@
 
 
 <img align="right" alt="Coding" width="400"
-  src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif">
+  src="./assets/typing.gif">
 
 ### 👨‍💻 𝙰𝙱𝙾𝚄𝚃
 
